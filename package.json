@@ -1,0 +1,11 @@
+{
+  "name": "stillcloud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/x65han/stillcloud.git",
+  "author": "x65han <x65han@edu.uwaterloo.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.4.4"
+  }
+}
